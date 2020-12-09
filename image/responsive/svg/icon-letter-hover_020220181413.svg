@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- (c) Livemaster LLC - https://livemaster.ru -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 22">
+  <title>
+    message_focus
+  </title>
+  <g>
+    <path d="M23.87 3H2.15A1.14 1.14 0 0 0 1 4.14V17.8A1.14 1.14 0 0 0 2.07 19h21.78A1.14 1.14 0 0 0 25 17.86V4.14A1.14 1.14 0 0 0 23.87 3z" fill="#1786d0"/>
+    <path d="M14 11a1.79 1.79 0 0 1-2.48 0L2.94 4.33h19.52zM8.03 10.27l-5.69 5.38V5.88l5.69 4.39" fill="#d1f1ff"/>
+    <path d="M9.27 11.24l1.27 1a3.32 3.32 0 0 0 2.21.87 3.19 3.19 0 0 0 2.16-.84l1.34-1.09 6.85 6.5H2.5zM17.59 10.16l6.07-4.74v10.5l-6.07-5.76" fill="#d1f1ff"/>
+    <path fill="none" d="M0 0h26v22H0z"/>
+  </g>
+</svg>

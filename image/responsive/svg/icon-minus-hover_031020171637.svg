@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- (c) Livemaster LLC - https://livemaster.ru -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <title>
+    minus_focus
+  </title>
+  <g>
+    <circle cx="11" cy="11" r="10" fill="#1d68a6"/>
+    <path d="M11 19a8 8 0 1 1 8-8 8 8 0 0 1-8 8z" fill="#d1f1ff"/>
+    <path fill="#1d68a6" d="M6 9.93h10v2.14H6z"/>
+    <path fill="none" d="M0 0h22v22H0z"/>
+  </g>
+</svg>

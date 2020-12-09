@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#F1F2F2;}
+	.st2{fill:#FFFFFF;}
+</style>
+<radialGradient id="SVGID_1_" cx="6.9437" cy="33.3046" r="54.1928" gradientTransform="matrix(0.8642 -0.5207 0.378 0.6122 -11.7491 16.5305)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.1116" style="stop-color:#FEC053"/>
+	<stop  offset="0.2484" style="stop-color:#F67445"/>
+	<stop  offset="0.3211" style="stop-color:#F2503E"/>
+	<stop  offset="0.3541" style="stop-color:#EC4C48"/>
+	<stop  offset="0.4111" style="stop-color:#DD4264"/>
+	<stop  offset="0.4849" style="stop-color:#C33192"/>
+	<stop  offset="0.5176" style="stop-color:#B729A8"/>
+	<stop  offset="0.6499" style="stop-color:#7F37C2"/>
+	<stop  offset="0.7649" style="stop-color:#5342D6"/>
+</radialGradient>
+<path class="st0" d="M29,32H3c-1.6,0-3-1.4-3-3L0,3c0-1.7,1.4-3,3-3h26c1.6,0,3,1.4,3,3v26C32,30.7,30.7,32,29,32z"/>
+<title>Ресурс 31</title>
+<path class="st1" d="M22.4,27.5H9.6c-2.7,0-4.8-2.2-4.8-4.8V9.8C4.8,7.1,6.9,5,9.6,5h12.9c2.7,0,4.8,2.2,4.8,4.8v12.8
+	C27.2,25.3,25.1,27.5,22.4,27.5z M9.6,7.6c-1.2,0-2.2,1-2.2,2.2v12.9c0,1.2,1,2.2,2.2,2.2l0,0h12.9c1.2,0,2.2-1,2.2-2.2l0,0V9.8
+	c0-1.2-1-2.2-2.2-2.2l0,0C22.5,7.6,9.6,7.6,9.6,7.6z"/>
+<path class="st1" d="M16,22.4c-3.4,0-6.2-2.8-6.2-6.2S12.6,10,16,10s6.2,2.8,6.2,6.2l0,0C22.2,19.7,19.4,22.4,16,22.4z M16,12.6
+	c-2,0-3.6,1.6-3.6,3.6s1.6,3.6,3.6,3.6s3.6-1.6,3.6-3.6l0,0C19.6,14.2,18,12.6,16,12.6z"/>
+<circle class="st2" cx="22.2" cy="10" r="0.9"/>
+</svg>

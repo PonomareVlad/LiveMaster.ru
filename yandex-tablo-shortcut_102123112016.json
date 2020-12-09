@@ -1,0 +1,10 @@
+{ 
+  "version": "1", 
+  "api_version": 1, 
+  "layout": 
+{ 
+  "logo": "https://www.livemaster.ru/image/logo_yandex_tablo.png?175121112016", 
+  "color": "#f2f3f4",
+  "show_title": false 
+}
+}

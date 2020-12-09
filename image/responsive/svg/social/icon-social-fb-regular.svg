@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- (c) Livemaster LLC - https://livemaster.ru -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+	<rect fill="#3b579d" width="24" height="24" rx="2" ry="2"/>
+	<path fill="#fff" d="M16.68,24h-4V13.17H10V9.44h2.67V7.24c0-3,.82-4.9,4.36-4.9h3V6.07H18.14c-1.38,0-1.45.52-1.45,1.5V9.43H20l-.39,3.73H16.69Z"/>
+</svg>

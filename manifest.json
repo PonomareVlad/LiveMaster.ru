@@ -1,0 +1,22 @@
+{
+	"short_name": "Ярмарка Мастеров",
+	"name": "Ярмарка Мастеров",
+	"icons": [
+		{
+			"src": "/image/icon-192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/image/icon-512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "/?utm_source=a2hs",
+	"background_color": "#f0eef0",
+	"display": "standalone",
+	"scope": "/",
+	"gcm_sender_id": "103953800507",
+	"theme_color": "#fc9633"
+}
